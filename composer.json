@@ -1,0 +1,13 @@
+{
+    "name": "whoisthere/state",
+    "authors": [
+        {
+            "name": "gubaevgeniy",
+            "email": "evgeniyguba@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
